@@ -92,10 +92,6 @@ g5-cl-53g6shylj-stonegate-villas-apartments
 g5-cl-53g6t11bs-river-pointe
 g5-cl-53g6tmwd5-copper-mountain
 g5-cl-53g6uec0q-twin-creek
-g5-cl-53gkc5h42-canterra-at-fitzsimons
-g5-cl-53gl03bcv-silverbrook
-g5-cl-53gz4vaeg-the-parc-at-briargate
-g5-cl-53gz6ql8q-union-heights
 g5-cl-1stcdt44-rock-creek-landing
 g5-cl-55db5542t-east-maryland-animal-hospital
 g5-cl-55db6nro7-stonecrest-animal-hospital
@@ -169,7 +165,6 @@ g5-cl-1sjhz1kz-the-lodge-at-willow-creek
 g5-cl-1gcru289jp-massanutten-animal-clinic
 g5-cl-1ghz101u50-the-park-at-flower-mound
 g5-cl-1ger10z2ms-marquis-at-canyon-ridge
-g5-cl-57b5s5om4-westminster-square-apartments
 g5-cl-57b5qq8gk-sunridge-at-cielo-vista
 g5-cl-57b5qq8gl-sunridge-at-palisades
 g5-cl-57b5qqg6e-sunridge-at-cambria
@@ -180,7 +175,6 @@ g5-cl-1ggesbjmyh-sierra-vista-independent-and-assisted-living
 g5-cl-1ggesb8x5f-valley-crest-memory-care
 g5-cl-1ghzffvef2-marquis-at-sugar-land
 g5-cl-1ghzfft999-marquis-at-the-woodlands
-g5-cl-6d4u4se-axis
 g5-cl-1gggeihlaf-pacifica-senior-living-calaroga-terrace
 g5-cl-1ggfzw6eih-pacifica-senior-living-millcreek
 g5-cl-1ggfm4rm17-pacifica-senior-living-paradise-valley
@@ -202,17 +196,12 @@ g5-cl-1gdb6sziz4-a-1-self-storage
 g5-cl-1ger1edbrb-firestone-west-7th
 g5-cl-1ggfzwctzx-pacifica-senior-living-hillsborough
 g5-cl-1ger1euh1u-the-marq-on-voss
-g5-cl-i5ifkgjd-viera-of-the-palm-beaches
 g5-cl-1gggeilvm2-meridian-at-kessler-park
 g5-cl-55igrkw0d-the-preserve-at-cedar-river
 g5-cl-1ghzffxjkv-the-marquis-at-clear-lake
 g5-cl-53g750hr1-grand-villas-apartments
 g5-cl-53g75js74-grand-villas-at-tuscan-lakes
 g5-cl-53zoajuhm-caleo-bay-alzheimer-s-special-care-center
-g5-cl-53tperrg9-chancery-square
-g5-cl-1slmchr9-village-at-iron-blossom
-g5-cl-1slhp2tq-vizcaya-hilltop
-g5-cl-1sucbdhf-charter-pointe-apartments
 g5-cl-53g7627s2-discovery-at-kingwood
 g5-cl-1ggfzwez5q-pacifica-senior-living-green-valley
 g5-cl-1ger11id34-marquis-midtown-west
@@ -221,15 +210,12 @@ g5-cl-1gd86s8o5d-one-pearl-place
 g5-cl-558hv3hs4-the-vinyards
 g5-cl-1ger11mner-the-marquis-at-sugarloaf
 g5-cl-1ggesc2xet-pacifica-senior-living-regency
-g5-cl-54jxd29bx-rainbow-mini-storage
 g5-cl-1gggeijqg9-newforest-estates
 g5-cl-1gefxyezzf-the-center-for-bird-and-exotic-animal-medicine
 g5-cl-1ger119sfv-the-marquis-at-brushy-creek
 g5-cl-583aqnlbh-quail-creek-self-storage
 g5-cl-1gggeifg4l-pacifica-senior-living-coeur-d-alene
 g5-cl-53g76n7ye-discovery-at-rowlett-creek
-g5-cl-57b5s76mw-villas-at-carrington-square
-g5-cl-57b5s7ecq-carrington-park
 g5-cl-1gggeio0rw-courtyard-at-coeur-d-alene
 g5-cl-1ggfzwj9hd-pacifica-senior-living-escondido
 g5-cl-1gkdvlbqnm-pacifica-senior-living-pinehurst
@@ -247,7 +233,6 @@ g5-cl-57b5qqvm2-wood-glen-court
 g5-cl-541ndswol-marshall-pines-alzheimer-s-special-care-center
 g5-cl-1gcru55afy-memorial-cat-hospital
 g5-cl-53g77n899-avenues-at-shadow-creek-ranch
-g5-cl-53ds75dou-plantation-key-health-and-rehabilitation
 g5-cl-588u7ueem-palma-ceia-air-conditioned-self-storage
 g5-cl-588u9tzkf-palma-ceia-storage
 g5-cl-588u9xmqo-oldsmar-self-storage
@@ -265,9 +250,7 @@ g5-cl-575xxkhfx-cascade-inn
 g5-cl-575xxkhfy-delaware-plaza
 g5-cl-1ggfm4y1in-pacifica-senior-living-ocala
 g5-cl-i5zokped-red-river-apartments
-g5-cl-i6mntygo-wellsford-oaks
 g5-cl-1ghz10gu9l-marquis-at-legacy
-g5-cl-i0srdhz0-tierra-linda-apartments
 g5-cl-1ggesbq2fx-pacifica-senior-living-union-city
 g5-cl-1ggfocjp3n-pacifica-senior-living-oakland-heights
 g5-cl-1glpejcfg8-iron-horse-self-storage
@@ -277,7 +260,6 @@ g5-cl-1ggfzw246u-pacifica-senior-living-newport-mesa
 g5-cl-1ggesc0s8z-pacifica-senior-living-san-martin
 g5-cl-1ggfzwh4bk-pacifica-senior-living-forest-trace
 g5-cl-55a2xpz02-regents-on-university
-g5-cl-57b5up07c-eagles-reserve
 g5-cl-56fttz4p1-bayshore-animal-hospital
 g5-cl-57ep03cb6-american-mini-storage
 g5-cl-57ep03k10-advantage-storage-frisco-stonebriar
@@ -292,13 +274,11 @@ g5-cl-57ep064mx-advantage-storage-mckinney-east
 g5-cl-53xbrj0rf-regency-park
 g5-cl-57ep06ccs-plano-superior
 g5-cl-57ep06k2l-a1-storage
-g5-cl-i0spnuty-monte-verde-apartments
 g5-cl-1ger1ehm2y-marquis-at-tanglewood
 g5-cl-55a2vztcf-marquis-at-kingwood
 g5-cl-i1xsvf6u-twenty25-barrett
 g5-cl-57b5qr3bv-three-forks-of-forney
 g5-cl-57b5qr3bw-cedar-bluff-assisted-living
-g5-cl-i27xckb6-somerset-apartments
 g5-cl-i9bw8ruu-mini-warehouse-world
 g5-cl-1ger1eyrdh-marquis-barton-trails
 g5-cl-53g796yfn-avenues-at-tuscan-lakes
@@ -314,7 +294,6 @@ g5-cl-1gdb70lvjj-a-1-self-storage
 g5-cl-570sqhoy4-maplewood-healthcare
 g5-cl-1ggesbucrj-pacifica-senior-living-spring-valley
 g5-cl-54omrkxx7-wellington-at-hershey-mills
-g5-cl-i91z0e2m-pinnacle-on-the-park
 g5-cl-55zvtiicc-royalton-woods
 g5-cl-1ger11id35-the-jane-atlanta
 g5-cl-1ghb5a00of-parkway-veterinary-hospital-330
@@ -329,7 +308,6 @@ g5-cl-53gmbvkdk-jamestown-place-apartment-homes
 g5-cl-53gms49rh-cameron-isles-apartments
 g5-cl-53gmumpxs-villa-broussard
 g5-cl-53gmy6w50-the-landings-at-long-lake
-g5-cl-53ugzpnb3-eastside-bond-apartments
 g5-cl-57ep06zi8-advantage-storage-mckinney-east-craig-ranch
 g5-cl-54dzk07fy-tiger-self-storage
 g5-cl-5403hwhs9-tiger-self-storage-2-oates-dr
@@ -341,7 +319,6 @@ g5-cl-54qpspt8x-your-animal-hospital
 g5-cl-1gdb70jqdq-a-1-self-storage
 g5-cl-1gdb70b5qi-a-1-self-storage
 g5-cl-1gdb702l38-a-1-self-storage
-g5-cl-545yu2qus-park-place
 g5-cl-54e0uudlw-stockton-mini-stor
 g5-cl-552myzb1e-simply-storage
 g5-cl-552my4fxd-simply-storage
@@ -349,7 +326,6 @@ g5-cl-552mxj81c-simply-storage
 g5-cl-552mwzi5r-simply-storage
 g5-cl-55rkqlmax-aquarium-village
 g5-cl-55rklikso-newport-business-plaza
-g5-cl-53ugzpnb3-eastside-bond-apartments
 g5-cl-1gh6lzmsh2-animal-medical-clinic-of-merle-hay
 g5-cl-1gdgepxc4j-animal-care-clinic-west-metro-cat-hospital
 g5-cl-54gcnr4rc-store-it-all-village-west
@@ -359,7 +335,6 @@ g5-cl-1gdgp98lmz-olive-ridge
 g5-cl-54twloog6-west-woods-haven
 g5-cl-57ep06zi9-advantage-storage-garland
 g5-cl-1gdk5disps-animal-hospital-of-newport-hills
-g5-cl-5586od1c2-pinnacle-on-the-park
 g5-cl-55zery8u8-the-village-at-southern-crossing
 g5-cl-55zerygk1-fountain-village-apartments
 g5-cl-55p6e3bql-retreat-at-the-flatirons
@@ -517,7 +492,6 @@ g5-cl-575yxwzxm-villas-at-spring-trails
 g5-cl-57ep07exw-advantage-storage-avondale
 g5-cl-57ep07exx-advantage-storage-buckeye
 g5-cl-57skmjzv5-marq-31
-g5-cl-57ep07mnq-delete
 g5-cl-57txekqce-orchard-pointe-corporate
 g5-cl-57dvkf6ys-electra-america
 g5-cl-57goe1zob-portofino-at-biscayne-2
@@ -703,4 +677,5 @@ g5-cl-1gldrn674k-montessa
 g5-cl-1gm5ousee9-keystone-villa-at-fleetwood
 g5-cl-1gm5p6zsaq-keystone-villa-at-ephrada
 g5-cl-1gm5plirgj-keystone-villa-at-douglassville
-698 locations
+672 locations
+

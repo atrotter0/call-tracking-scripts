@@ -41,7 +41,7 @@ end
 
 # script start
 core_file = "stores-with-ct-cloud-urns.txt"
-cloud_file = "no-call-tracking-true.txt"
+cloud_file = "filtered-cloud-list.txt"
 core_list = []
 cloud_list = []
 final_list = []

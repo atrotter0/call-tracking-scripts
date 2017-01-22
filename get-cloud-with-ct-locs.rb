@@ -1,14 +1,13 @@
-locations = Location.where(no_call_tracking: true)
 filtered_list = []
+locations = Location.where(no_call_tracking: true)
 
 locations.each do |loc|
-  if loc.status == "Deleted" || loc.status == "Core-Active"
-    next
-  else
-    filtered_list << loc
+  client = Client.where(id: loc.client_id).first
+  if client.present? && client.status != "Core-Active"
+    filtered_list << loc.urn
   end
 end
 
 filtered_list.each do |location|
-  puts "#{location.urn}"
+  puts "#{location}"
 end

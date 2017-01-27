@@ -46,7 +46,12 @@ end
 
 def print_array_to_file(filename, array)
   puts "Writing to #{filename}..."
-  File.open(filename, 'w') { |file| file.write("#{array}") }
+  File.open(filename, 'w') { |file| 
+    array.each do |line| 
+    file.write("#{line}\n")
+  end
+  file.write("#{array.count} locations")
+  }
   puts "Done!"
 end
 

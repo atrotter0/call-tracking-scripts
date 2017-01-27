@@ -1,3 +1,8 @@
+# Steps:
+# 1. Run get-cloud-with-ct-locs.rb script in g5-Hub
+# 2. Copy output into filtered-cloud-list.txt
+# 3. Run check-call-tracking.rb from terminal
+
 def copy_core_file_to_array(file, array)
   puts "Copying #{file}..."
   File.open(file).each do |line|
@@ -39,9 +44,16 @@ def display_final_list(array)
   puts "#{array.count} locations"
 end
 
+def print_array_to_file(filename, array)
+  puts "Writing to #{filename}..."
+  File.open(filename, 'w') { |file| file.write("#{array}") }
+  puts "Done!"
+end
+
 # script start
 core_file = "stores-with-ct-cloud-urns.txt"
 cloud_file = "filtered-cloud-list.txt"
+final_file = "final-list.txt"
 core_list = []
 cloud_list = []
 final_list = []
@@ -49,3 +61,4 @@ copy_core_file_to_array core_file, core_list
 copy_file_to_array cloud_file, cloud_list
 compare_arrays core_list, cloud_list, final_list
 display_final_list final_list
+print_array_to_file final_file, final_list
